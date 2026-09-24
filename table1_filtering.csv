@@ -1,0 +1,8 @@
+filter,records remaining
+downloaded,12000
+length >= 500,12000
+<= 1% ambiguous,11998
+only ACGTN,11876
+named to species,10861
+no internal stop codon (NUMT filter),10840
+unique sequences,8223

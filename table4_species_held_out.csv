@@ -1,0 +1,5 @@
+method,task,split,accuracy,balanced_accuracy,macro_f1
+kNN (cosine),genus,species held out,0.741,0.71,0.68
+RandomForest,genus,species held out,0.664,0.539,0.538
+LinearSVM,genus,species held out,0.279,0.068,0.057
+BLAST top hit,genus,species held out,0.735,,
